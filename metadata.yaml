@@ -1,0 +1,35 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-George-Eliot_58777
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Cross, Marian Evans
+    - Lewes, M. E. (Marian Evans)
+    - Evans, Mary Anne
+    - Lewes, Marian Evans
+    - Cross, Mary Ann
+    - Evans, Marian
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of George Eliot
+url: http://www.gutenberg.org/ebooks/58777
